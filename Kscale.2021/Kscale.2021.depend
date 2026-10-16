@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1777652810 source:c:\users\mihai\onedrive\desktop\ub_conc\kscale.2021\main.cpp
+	<iostream>
+	<fstream>
+	<climits>
+
